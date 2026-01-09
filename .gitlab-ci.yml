@@ -1,0 +1,16 @@
+# test-dashboard CI/CD Pipeline
+# This pipeline verifies the complete CI/CD infrastructure
+
+include:
+  - project: 'daitics-com/ci-cd-templates'
+    file: '/templates/pipelines/nodejs-react.yml'
+
+variables:
+  APP_NAME: test-dashboard
+  NODE_VERSION: "20"
+
+  # Vault configuration
+  VAULT_ADDR: "http://vault.vault-system.svc.cluster.local:8200"
+
+  # SonarQube configuration
+  SONAR_HOST_URL: "http://sonarqube.sonarqube-system.svc.cluster.local:9000"
