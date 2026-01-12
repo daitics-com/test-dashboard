@@ -16,3 +16,4 @@
 
 # Pipeline test v14 - Mon Jan 12 11:46:10 PM +0400 2026 - Post runner fix
 # Pipeline test v15 - 2026-01-13 00:16:46 - After fixing group variables
+# Pipeline test v16 - 2026-01-13 00:28:46 - VAULT_ADDR https fix
