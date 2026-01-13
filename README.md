@@ -22,3 +22,4 @@
 # Pipeline test v19 - 2026-01-13 13:15:31 - ArgoCD deploy token fix
 # Pipeline test v20 - 2026-01-13 16:20:21 - Test Kustomize deploy
 # Pipeline test v21 - 2026-01-13 16:24:30 - YAML fix
+# Pipeline test v22 - 2026-01-13 16:53:52 - Kustomize YAML newline fix
