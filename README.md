@@ -20,3 +20,4 @@
 # Pipeline test v17 - 2026-01-13 01:12:18 - Post authEndpoint fix
 # Pipeline test v18 - 2026-01-13 01:54:23 - Registry auth realm fix applied
 # Pipeline test v19 - 2026-01-13 13:15:31 - ArgoCD deploy token fix
+# Pipeline test v20 - 2026-01-13 16:20:21 - Test Kustomize deploy
