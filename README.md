@@ -23,3 +23,4 @@
 # Pipeline test v20 - 2026-01-13 16:20:21 - Test Kustomize deploy
 # Pipeline test v21 - 2026-01-13 16:24:30 - YAML fix
 # Pipeline test v22 - 2026-01-13 16:53:52 - Kustomize YAML newline fix
+# Pipeline test v23 - 2026-01-14 18:07:29 - Registry via APISIX HTTPS (port 30443)
