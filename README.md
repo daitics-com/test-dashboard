@@ -29,3 +29,4 @@
 # Pipeline test v26 - 2026-01-16 15:24:56 - Post DNS ndots fix for webhook handler
 # Pipeline test v27 - 2026-01-16 20:20:02 - Post hostAliases fix for CI/CD registry access
 # Pipeline test v27 - 2026-01-16 20:20:13 - Post hostAliases fix for CI/CD registry access
+# Pipeline test v28 - 2026-01-16 21:35:53 - CI registry URL fix (external URL for push/pull consistency)
