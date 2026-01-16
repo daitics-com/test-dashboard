@@ -25,3 +25,4 @@
 # Pipeline test v22 - 2026-01-13 16:53:52 - Kustomize YAML newline fix
 # Pipeline test v23 - 2026-01-14 18:07:29 - Registry via APISIX HTTPS (port 30443)
 # Pipeline test v24 - 2026-01-15 18:05:00 - E2E CI/CD test after GitLab gitaly fix
+# Pipeline test v25 - 2026-01-16 13:48:00 - Post PAT token regeneration and Vault backup
