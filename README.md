@@ -27,3 +27,5 @@
 # Pipeline test v24 - 2026-01-15 18:05:00 - E2E CI/CD test after GitLab gitaly fix
 # Pipeline test v25 - 2026-01-16 13:48:00 - Post PAT token regeneration and Vault backup
 # Pipeline test v26 - 2026-01-16 15:24:56 - Post DNS ndots fix for webhook handler
+# Pipeline test v27 - 2026-01-16 20:20:02 - Post hostAliases fix for CI/CD registry access
+# Pipeline test v27 - 2026-01-16 20:20:13 - Post hostAliases fix for CI/CD registry access
